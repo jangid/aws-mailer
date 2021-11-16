@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/jangid/aws-mailer#readme",
   "dependencies": {
-    "aws-sdk": "^2.423.0"
+    "aws-sdk": "^2.814.0"
   }
 }
